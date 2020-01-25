@@ -1,0 +1,18 @@
+# Investigación de la cibercultura
+
+- Big data vs. small data
+- Etnografía digital 
+  - Diario de campo digital
+  - Análisis digital cualitativo
+- Métodos virtuales
+- Métodos digitales
+
+## Bibliografía {-}
+
+- Amozurrutia, J. A. (2007). Cibercultur@ e iniciación en la investigación (Vol. 11). UNAM.
+- Cabrera, T. M., & Cardona, J. J. C. (2014). La Etnografía: Una posibilidad metodológica para la investigación en cibercultura. Encuentros, 12(2), 93–103.
+- Del Fresno García, M. (2011). Netnografía. Editorial UOC.
+- Hine, C. (2011). Etnografía virtual. Editorial uoc.
+- Martínez Ojeda, B. (2006). Homo digitalis-etnografía de la cibercultura.
+- Rogers, R. (2013). Digital Methods. MIT Press.
+

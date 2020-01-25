@@ -1,0 +1,20 @@
+--- 
+title: "Cibercultura"
+subtitle: "Sílabo de la materia Cibercultura de la Carrera de Antropología de la UCB"
+author: "Alex Ojeda Copa"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+cover-image: "assets/logo.png"
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+description: "Sílabo de la materia Cibercultura de la Carrera de Antropología de la UCB"
+---
+
+# Introducción {-}
+
+La cultura no es una entidad estática, está en constante creación y recreación colectiva. Dependiendo de los espacios sociales involucrados, sus actores, interacciones y simbólos, se formaran dinámicas semióticas y prácticas culturales particulares. Habitamos ya espacios tradicionales de larga data como el hogar, las comunidades rurales, las ciudades, los mercados, las naciones, etc. Sin embargo, a finales del siglo XX e inicios del siglo XXI, como un corolario del proceso de globalización, aparece un nuevo espacio social muy peculiar que conecta diferentes territorios culturales: el ciberespacio. Este nuevo espacio social, que se sostiene en las tecnologías digitales, representa un reto de comprensión para las ciencias sociales y da a lugar al complejo fenómeno de la cibercultura. 
+
+Para la antropología, en particular, el ciberespacio representa dos oportunidades que son al mismo tiempo retos, uno metodológico y otro de mediación. Por lo general, en el estudio de fenómenos en el ciberespacio se utilizan métodos informáticos y cuantitativos asociados al big data, que nos permiten ver patrones generales en un medio de abundante información; no obstante, aquellos métodos no permiten la profundidad cualitativa, aquí la antropología nos ofrece un valioso enfoque de small data, que nos permita comprender la riqueza semiótica de esas dinámicas a partir de la etnografía digital o netnografía. Al mismo tiempo, debido a que el ciberespacio tiene la capacidad de conectar diversos territorios culturales, nos encontramos con una constante interacción entre diversas culturas, experiencias y formas de conocimiento que no siempre es armónica, por lo que aquí se necesita una adecuada gestión del conocimiento colectivo y hasta una mediación intercultural. Así, la presente materia abordará la cibercultura tanto como un novedoso objeto de investigación antropológica como también una oportunidad para la gestión del conocimiento, el aprendizaje colectivo y la mediacion intercultural. 
+

@@ -1,0 +1,36 @@
+# Teorías de la cibercultura
+
+- La aldea global
+- Sociedad de la información 
+- Sociedad red 
+- Individualismo en red
+- Etica Hacker 
+- Cultura remix 
+- Conectivismo
+- Capitalismo cognitivo y vigilancia
+- Antropología Cyborg
+  - Automatas del siglo XVIII
+  - Robots
+  - Cyborgs
+- Hiperculturalidad
+- Tecnoptimismo y tecnopesimismo
+
+## Bibliografía {-}
+
+- Ardévol, E. (2002). Cibercultura/ciberculturas: La cultura de Internet o el análisis cultural de los usos sociales de Internet. Actas del IX Congreso de Antropología de la Federación de Asociaciones de Antropolog’ia del Estado Español.
+- Ardèvol, E. (2003). La cibercultura: Un mapa de viaje; aproximaciones teóricas para un análisis cultural de Internet. Aportaciones al Seminario Pensar la Cibercultura: Antropología y Filosofía del Nuevo Mundo (Digital). Fundación Duques de Soria. 
+- Bell, D. (2001). An Introduction to Cybercultures. Psychology Press.
+- Case, A. (2014). An illustrated dictionary of cyborg anthropology. CreateSpace Independent Publishing Platform.
+- Castells, M. (1997). La era de la información. Volumen 1: La sociedad red. Alianza editorial.
+- Escobar, A. (2005). Bienvenidos a Cyberia: Notas para una antropología de la cibercultura. Revista de estudios sociales, 22, 15–35.
+- Han, B.-C. (2014). En el enjambre. Herder Editorial.
+- Han, B.-C. (2018). Hiperculturalidad. Herder Editorial.
+- Haraway, D. J. (1995). Ciencia, cyborgs y mujeres: La reinvención de la naturaleza. Cátedra.
+- Himanen, P. (2015). La ética del hacker y el espíritu de la era de la información.
+- Lessig, L. (2005). Por una cultura libre: Cómo los grandes medios usan la tecnología y las leyes para encerrar la cultura y controlar la creatividad. Santiago: LOM Ediciones, 2005.
+- Lévy, P. (2007). Cibercultura: Informe al Consejo de Europa. Anthropos Editorial.
+- Mcluhan, M. (1996). Comprender los medios: Las extensiones del ser humano. Paidós.
+- Miller, D. (2016). How the world changed social media. http://discovery.ucl.ac.uk/1474805/1/How-the-World-Changed-Social-Media.pdf
+- Pariser, E. (2017). El filtro burbuja: Cómo la web decide lo que leemos y lo que pensamos. Taurus.
+- Webster, F. (2014). Theories of the information society. Routledge.
+

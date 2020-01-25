@@ -1,0 +1,52 @@
+# Prácticas ciberculturales
+
+## Ciberindividuo
+- Identidad
+- Anonimidad
+- Adicción
+
+## Ciber sociedad civil 
+- Ciberasociaciones
+- Instituciones
+  - Familia
+  - Juventud
+  - Educación 
+- Medios digitales
+- Violencia digital
+- Culturas indigenas y lo digital
+  
+## Cibereconomía 
+  - Trabajo digital
+  - Comercio
+  - Empresa
+  
+## Ciberpolítica 
+  - Ciudadanía digital
+  - Regulación
+  - Libertad de expresión
+  - Vigilancia
+  - Movimientos sociales en red
+  - Ciberactivismo
+  - Ciberfeminismo
+  - Hacktivismo
+  - Gobierno electrónico y abierto
+  
+## Cibertecnología
+  - Realidad virtual
+  - Inteligencia artificial
+  - Videojuegos
+  
+## Bibliografía {-}
+
+- Cáceres, J. G. (1997). Comunidad virtual y cibercultura: El caso del EZLN en México. Estudios sobre las culturas contemporáneas, 3(5), 9–28.
+- Cáceres, J. G. (1998). Cibercultura, ciberciudad, cibersociedad hacia la construcción de mundos posibles en nuevas metáforas conceptuales. Estudios sobre las culturas contemporáneas, 4(7), 9–23.
+- Castells, M. (2009). Comunicación y poder (1. ed). Alianza.
+- Castells, M. (2012). Redes de indignación y esperanza: Los movimientos sociales en la era de internet. Alianza.
+- De Ugarte, D. (2007). El poder de las redes. David de Ugarte.
+- Dyson, L. E., Grant, S., & Hendriks, M. (2015). Indigenous people and mobile technologies. Routledge.
+- Feixa, C. (2000). Generación@ la juventud en la era digital. Nómadas (Col), 13, 75–91.
+- González, G. M. (2010). De las culturas juveniles a las ciberculturas del siglo XXI. Revista Educación y ciudad, 18, 19–32.
+- Horst, H. A., & Miller, D. (Eds.). (2012). Digital anthropology (English ed). Berg.
+- Jenkins, H. (2008). Convergence culture: La cultura de la convergencia de los medios de comunicación. Paidós.
+- Moya, M., & Vázquez, J. (2010). De la Cultura a la Cibercultura: La mediatización tecnológica en la construcción de conocimiento y en las nuevas formas de sociabilidad. Cuadernos de antropología social, 31, 75–96.
+

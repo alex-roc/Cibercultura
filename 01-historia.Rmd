@@ -1,0 +1,42 @@
+# Historia del ciberespacio
+
+## Componentes tecnológicos  
+- El Internet  
+  - La red distribuida 
+  - La conmutación de paquetes 
+  - Arpanet  
+- La Web  
+  - La idea del hipertexto  
+  - El Memex de Vannevar Bush 
+  - El proyecto Xanadu de Ted Nelson  
+  - El CERN  
+- La Web 2.0  
+  - Blogs
+  - Wikis
+  - Las redes sociales digitales   
+- El telefono inteligente
+  - La pantalla tactil
+  - Las apps
+
+## Componentes culturales  
+
+- El tropo de lo “ciber”
+- Ciberpunk y otras narrativas
+- Manifiesto del ciberespacio
+- Comunidades virtuales
+- Identidades virtuales
+- Cibercultura como contracultura
+
+## Bibliografía {-}
+
+- Barlow, J. (1996). Declaración de independencia del ciberespacio. Periferica, 10, 241–242. https://doi.org/10.25267/Periferica.2009.i10.22
+- Castells, M. (2001). La galaxia internet. Madrid: Areté. 
+- Castells, M., Fernández-Ardèvol, M., & Linchuan Qiu, J. (2007). Comunicación móvil y sociedad. Barcelona: Ariel y Fundación Telefónica.
+- ISOC. (1997). Breve historia de internet. Internet Society. https://www.internetsociety.org//es/internet/history-internet/brief-history-internet/
+- Rheingold, H. (1993). The virtual community: Homesteading on the electronic frontier. Addison-Wesley.
+- Turkle, S. (1997). La vida en la pantalla: La construcción de la identidad en la era de Internet.
+- Turner, F. (2006). From counterculture to cyberculture. University of Chicago Press.
+
+
+
+
