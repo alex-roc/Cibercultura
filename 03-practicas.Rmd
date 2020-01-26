@@ -3,7 +3,7 @@
 ## Ciberindividuo
 - Identidad
 - Anonimidad
-- Adicción
+- Soledad
 
 ## Ciber sociedad civil 
 - Ciberasociaciones
@@ -22,7 +22,7 @@
   
 ## Ciberpolítica 
   - Ciudadanía digital
-  - Regulación
+  - Regulación estatal
   - Libertad de expresión
   - Vigilancia
   - Movimientos sociales en red

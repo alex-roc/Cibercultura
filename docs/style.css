@@ -12,3 +12,7 @@ pre {
 pre code {
   white-space: inherit;
 }
+
+section.normal em {
+    font-size: medium;
+}
